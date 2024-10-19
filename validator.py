@@ -16,4 +16,4 @@ for x in card_number[::2]:
 
 for x in card_number[1::2]:
     x = int(x) * 2
-    if x >=
+    if x >= 10
