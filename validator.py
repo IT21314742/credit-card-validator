@@ -6,4 +6,4 @@ sum_even_digits = 0
 total = 0
 
 # Step 1
-card_number = input("")
+card_number = input("Enter a credit card #:")
