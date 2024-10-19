@@ -8,3 +8,4 @@ total = 0
 # Step 1
 card_number = input("Enter a credit card #: ")
 card_number = card_number.replace("-", "")
+
