@@ -10,3 +10,5 @@ card_number = input("Enter a credit card #: ")
 card_number = card_number.replace("-", "")
 card_number = card_number.replace(" ", "")
 card_number = card_number[::-1]
+
+for
