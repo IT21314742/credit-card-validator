@@ -9,5 +9,5 @@ total = 0
 card_number = input("Enter a credit card #: ")
 card_number = card_number.replace("-", "")
 card_number = card_number.replace(" ", "")
-card_number
+card_number = 
 print(card_number)
