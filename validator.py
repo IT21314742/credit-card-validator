@@ -14,4 +14,4 @@ card_number = card_number[::-1]
 for x in card_number[::2]:
     sum_odd_digits += int(x)
 
-for
+for x
