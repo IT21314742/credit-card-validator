@@ -11,4 +11,4 @@ card_number = card_number.replace("-", "")
 card_number = card_number.replace(" ", "")
 card_number = card_number[::-1]
 
-for x in 
+for x in card_number
