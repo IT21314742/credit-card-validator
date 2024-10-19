@@ -1,4 +1,4 @@
 #Python Credit card Validator program
 
 
-sum_odd_digits =
+sum_odd_digits = 
