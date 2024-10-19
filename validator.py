@@ -15,4 +15,4 @@ for x in card_number[::2]:
     sum_odd_digits += int(x)
 
 for x in card_number[1::2]:
-    x = int(x)
+    x = int(x) * 2
