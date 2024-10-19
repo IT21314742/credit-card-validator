@@ -2,4 +2,4 @@
 
 
 sum_odd_digits = 0
-sum_even
+sum_even_degits
