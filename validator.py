@@ -23,4 +23,4 @@ for x in card_number[1::2]:
 
 total = sum_odd_digits + sum_odd_digits
 
-if total
+if total % 10 ==
