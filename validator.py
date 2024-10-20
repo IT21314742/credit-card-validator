@@ -25,3 +25,4 @@ total = sum_odd_digits + sum_odd_digits
 
 if total % 10 == 0:
     print("VALID")
+else:
