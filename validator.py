@@ -21,4 +21,4 @@ for x in card_number[1::2]:
     else:
         sum_even_digits += x
 
-total = sum_odd_digits + 
+total = sum_odd_digits + sum_odd_digits
