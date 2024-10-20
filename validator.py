@@ -18,3 +18,4 @@ for x in card_number[1::2]:
     x = int(x) * 2
     if x >= 10:
         sum_even_digits += (1 + (x % 10))
+    else
